@@ -1,5 +1,5 @@
 # DSA-Code-Files
-A collection of all Data Structures and Algorithm Code files at a single place.
+A collection of all Data Structures and Algorithm Code files at a single place so that further learnings can be made.
 
 It has the following categories:
 1. Binary Search
